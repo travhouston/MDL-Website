@@ -1,0 +1,22 @@
+
+.card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../images/Norway.jpg') center / cover;
+}
+.card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.card-news > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../images/Scotland.jpg') center / cover;
+}
+.card-news > .mdl-card__menu {
+  color: #fff;
+}
+
+main {
+  background-color: beige;
+}
